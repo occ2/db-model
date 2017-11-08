@@ -5,6 +5,6 @@ namespace occ2\DBModel;
  * interface for catching children of DBModelException
  * @author Milan Onderka
  * @package occ2/db-model
- * @version 1.0.0
+ * @version 1.1.0
  */
 interface IDBModelException{}

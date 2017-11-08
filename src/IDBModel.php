@@ -5,7 +5,7 @@ namespace occ2\DBModel;
  * DBModel interface
  * @author Milan Onderka
  * @package occ2/db-model
- * @version 1.1
+ * @version 1.1.0
  */
 interface IDBModel{
     /**
