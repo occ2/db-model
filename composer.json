@@ -22,7 +22,7 @@
         "classmap": [
             "src/IDBModel.php",
             "src/IDBModelException.php",
-            "src/DBModelException",
+            "src/DBModelException.php",
             "src/DBModel.php"
         ]
     }
